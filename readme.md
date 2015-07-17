@@ -1,3 +1,9 @@
+These are two programs I wrote to make coding in Indivs more efficient. The idea is to 
+find organizations with relatively large amounts of uncoded money that also have 
+Wikipedia pages (and can therefore be coded very quickly). I found that it allowed me to 
+code 2-3 times faster, although it won't be as efficient for a while now that I've done
+most of the bigger orgs on the list.
+
 "statesearch" looks up org/state combos and opens their Wiki pages if the text of the articles
 includes a mention of the state. "wiki2" looks up donor last name/org combos and opens
 pages if the text of the articles includes a mention of the last name. Both programs also
